@@ -12,6 +12,7 @@ import Projects from './components/Projects';
 import Services from './components/Services';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
+import Chatbot from './components/Chatbot';
 
 gsap.registerPlugin(ScrollTrigger, ScrollToPlugin);
 
@@ -59,6 +60,7 @@ const App: React.FC = () => {
 
       <Background3D />
       <Navbar />
+      <Chatbot />
 
       <main className="relative z-10">
         <Hero />
