@@ -6,6 +6,8 @@
 
 Built with **React**, **GSAP**, **Three.js**, and **Gemini AI** — scroll-triggered animations, an immersive 3D background, and an AI chatbot that brings the portfolio to life.
 
+[![View Live Demo](https://img.shields.io/badge/🚀-View_Live_Demo-00C853?style=flat-square)](https://ahsan-dogar.github.io/Ahsan-Dogar-POTFOLIO-Website/)
+
 [![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white)]()
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)]()
 [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)]()
